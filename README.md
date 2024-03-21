@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Instalar el paquete de Material Tailwind
+
+### `npm i @material-tailwind/react`
+
+Instalar Dependencias
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
